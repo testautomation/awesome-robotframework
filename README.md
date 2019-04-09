@@ -9,11 +9,15 @@
 
 ## Contents
 
+- [Trending](#trending)
 - [Misc](#misc)
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Trainings](#trainings)
+
+## Trending on Github
+Trending [Robot Framework repositories](https://github.com/trending/robotframework) on Github
 
 ## Misc
 
