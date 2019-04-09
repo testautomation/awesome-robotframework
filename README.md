@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [Trending](#trending)
+- [Trending](#trending-on-github)
 - [Misc](#misc)
 - [Libraries](#libraries)
 - [Tools](#tools)
